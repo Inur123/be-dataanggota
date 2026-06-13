@@ -1,0 +1,12 @@
+# Binaries
+bin/
+sso-backend
+anggota-backend
+
+# Local config
+.env
+
+# IDE / System
+.DS_Store
+.vscode/
+.idea/
